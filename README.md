@@ -5,11 +5,11 @@
 > webp (generate img in formats png, jpg, jpeg + webp)
 
 ## CSS
-> SCSS compilator
-> groups @media and inserts at the end of styles
-> autoprefixer
-> webp (set style for webp format as for png, jpg, jpeg)
-> clean css (will clear the file of comments and compresser => file.min.css)
+> + SCSS compilator
+> + groups @media and inserts at the end of styles
+> + autoprefixer
+> + webp (set style for webp format as for png, jpg, jpeg)
+> + clean css (will clear the file of comments and compresser => file.min.css)
 
 ## JavaScript
 > babel (ES6+ syntax to ES5)
