@@ -24,10 +24,10 @@
 ## Fonts
 + otf2ttf (call task in terminal => gulp svgSprite and then restart gulp)
 
-# ---------------------------------------------------------------------------
+# -----------------------------------------------------------------------
 
 ## Usage
 + work with #src folder
 + gulp will be compile files to dirname directory
 + HTML => include file
-[Image alt](https://github.com/kochutyu/gulp/raw/master/info/includefile.png)
+https://github.com/kochutyu/gulp/raw/master/info/includefile.png
