@@ -30,4 +30,4 @@
 + work with #src folder
 + gulp will be compile files to dirname directory
 + HTML => include file
-https://github.com/kochutyu/gulp/raw/master/info/includefile.png
+![]https://github.com/kochutyu/gulp/raw/master/info/includefile.png
